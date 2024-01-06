@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:background="@drawable/password"
+    tools:context=".view.MainActivity">
+
+    <Button
+        android:id="@+id/btnkyt"
+        android:layout_width="113dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="68dp"
+        android:backgroundTint="#BDAD20"
+        android:onClick="kydlInClıcked"
+        android:text="Kaydol"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/passwordText"
+        app:layout_constraintTop_toBottomOf="@+id/passwordText"
+        app:shapeAppearance="@style/Theme.Eticaretprojesi" />
+
+    <EditText
+        android:id="@+id/passwordText"
+        android:layout_width="281dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Kullanıcı Sifre"
+        android:inputType="text"
+        android:textAlignment="center"
+        android:textColor="#FF7F50"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/emailtext" />
+
+    <EditText
+        android:id="@+id/emailtext"
+        android:layout_width="281dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:hint="Kullanıcı Email"
+        android:inputType="text"
+        android:textAlignment="center"
+        android:textColor="#FF7F50"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btngrs"
+        android:layout_width="111dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="68dp"
+        android:backgroundTint="#BDAD20"
+        android:onClick="girisInClicked"
+        android:text="giris"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/passwordText"
+        app:layout_constraintTop_toBottomOf="@+id/passwordText"
+        app:shapeAppearance="@style/Theme.Eticaretprojesi" />
+</androidx.constraintlayout.widget.ConstraintLayout>

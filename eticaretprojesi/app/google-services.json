@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179340424290",
+    "project_id": "e-ticaret-7c898",
+    "storage_bucket": "e-ticaret-7c898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179340424290:android:f8866df4dc1be5b0214d3b",
+        "android_client_info": {
+          "package_name": "com.example.e_ticaret_projesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3whL-Hhy8SSXdl9ip5cD3vRCa6nbJ7fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

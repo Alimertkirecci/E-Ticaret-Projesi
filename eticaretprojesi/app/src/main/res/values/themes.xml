@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Eticaretprojesi" parent="Theme.Material3.DayNight.DialogWhenLarge">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:dialogTheme">@color/black</item>
+
+    </style>
+
+
+    <style name="Theme.Eticaretprojesi" parent="Base.Theme.Eticaretprojesi" />
+</resources>
