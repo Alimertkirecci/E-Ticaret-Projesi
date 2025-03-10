@@ -3,8 +3,8 @@
 | ------------ | ------------ |
 | Ekleme  | Ekleme  |
 | Silme  | Silme  |
-| dfdfgdgd  | Ürünler arası Etkileşim  |
-| dfg  | Ürün Beğenilme yüzdesi değerlendirme  |
+|   | Ürünler arası Etkileşim  |
+|   | Ürün Beğenilme yüzdesi değerlendirme  |
 | ------------ | ------------ |
 |Kendi Ana Menüsü |
 |Fiyat Kontrolü|
