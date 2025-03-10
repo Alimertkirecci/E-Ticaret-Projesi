@@ -6,7 +6,7 @@
 |   | Ürünler arası Etkileşim  |
 |   | Ürün Beğenilme yüzdesi değerlendirme  |
 
-|Kendi Ana Menüsü |
+Kendi Ana Menüsü 
 |Fiyat Kontrolü|
 | ------------ |
 | Yeni Tasarım  |
