@@ -1,13 +1,11 @@
 # E-Ticaret-Projesi
-| Kullanıcı   | Ekleme  |
+| Kullanıcı   | Ürün  |
 | ------------ | ------------ |
-| sdf  | dfgd  |
-| dfgd  | dfgdfg  |
-| dfdfgdgd  | dfgd  |
-| dfg  | dfdgdf  |
-| sdfs  | sdfsd  |
+| Ekleme  | Ekleme  |
+| Silme  | Silme  |
+| dfdfgdgd  | Ürünler arası Etkileşim  |
+| dfg  | Ürün Beğenilme yüzdesi değerlendirme  |
 | ------------ | ------------ |
-| sdf  | dfgd  |
-| dfgd  | dfgdfg  |
-| dfdfgdgd  | dfgd  |
-| dfg  | dfdgdf  |
+|Kendi Ana Menüsü |
+|Fiyat Kontrolü|
+
