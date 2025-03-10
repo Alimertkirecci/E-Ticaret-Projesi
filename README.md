@@ -5,7 +5,7 @@
 | Silme  | Silme  |
 |   | Ürünler arası Etkileşim  |
 |   | Ürün Beğenilme yüzdesi değerlendirme  |
-| ------------ | ------------ |
+
 |Kendi Ana Menüsü |
 |Fiyat Kontrolü|
 | ------------ |
