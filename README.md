@@ -8,7 +8,6 @@
 | ------------ | ------------ |
 |Kendi Ana Menüsü |
 |Fiyat Kontrolü|
-|Ali Mert Kireçci   |
 | ------------ |
 | Yeni Tasarım  |
 |  Kullanım |
